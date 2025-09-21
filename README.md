@@ -12,7 +12,7 @@
 <p>🔬 Interested in: AI tools , Machine Learning </p>
 <p>📫 How to reach me tech.kavinduwijesekara@gmail.com</p>
 
-<br><br><br>
+<br><br>
 
 <h2 align="center">My Statistics:</h2>
 <p align="center">
@@ -32,7 +32,7 @@
 </tr>
 </table>
 
-<br><br>
+<br>
 <h2 align="center">Languages and Tools:</h2>
 <p align="left">
 </p>
