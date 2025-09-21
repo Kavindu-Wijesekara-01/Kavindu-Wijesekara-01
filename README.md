@@ -14,7 +14,7 @@
 <p align="left">🔬 Interested in: AI tools , Machine Learning </p>
 <p align="left">📫 How to reach me tech.kavinduwijesekara@gmail.com</p>
 
-
+<br><br>
 <h2 align="center">Languages and Tools:</h2>
 <p align="left">
 </p>
