@@ -4,7 +4,7 @@
 
 <h2 align="center">A passionate IT student from Sri Lanka</h2>
 
-<img alt="cording" width="300" align="right" src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
+<img alt="cording" width="220"  align="right" src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
 <ul>
 <li><p>🌏 Location: Sri Lanka 🇱🇰 </p></li>
 <li><p>🔥 Passionate about: AI 🤖, Full-stack Web Development</p></li>
