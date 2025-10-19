@@ -1,6 +1,6 @@
 <img align="center" alt="cording" width="1200" src="https://camo.githubusercontent.com/3167026abe932fe28cb61a7308549da706bc1a8ee81a3cc3169ea75991d2e3d5/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966">
 
-<h1 align="center">Hi 👋, I'm Kavindu Wijesekara</h1>
+<h1 align="center">Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Kavindu Wijesekara</h1>
 
 <h2 align="center">A passionate IT student from Sri Lanka</h2>
 
