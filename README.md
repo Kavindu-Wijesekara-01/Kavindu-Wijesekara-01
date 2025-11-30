@@ -11,13 +11,13 @@
 
 <img alt="cording" width="300" align="right"  src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
 <ul>
-<li><p>🌏 Location: Sri Lanka 🇱🇰 </p></li>
-<li><p>🔥 Passionate about: AI 🤖, Full-stack Web Development</p></li>
-<li><p>🌱 Learning:  AI/ML, Cloud-computing ☁️, Cyber security</p></li>
-<li><p>🔬 Interested in: AI tools , Machine Learning </p></li>
-<li><p>💬 Ask me about Reactjs , nodejs , Figma</p></li>
-<li><p>📫 How to reach me tech.kavinduwijesekara@gmail.com</p></li>
-<li><p>⚡ Fun fact I think i am funny</p></li>
+<li><h4>🌏 Location: Sri Lanka 🇱🇰 </h4></li>
+<li><h4>🔥 Passionate about: AI 🤖, Full-stack Web Development</h4></li>
+<li><h4>🌱 Learning:  AI/ML, Cloud-computing ☁️, Cyber security</h4></li>
+<li><h4>🔬 Interested in: AI tools , Machine Learning </h4></li>
+<li><h4>💬 Ask me about Reactjs , nodejs , Figma</h4></li>
+<li><h4>📫 How to reach me tech.kavinduwijesekara@gmail.com</h4></li>
+<li><h4>⚡ Fun fact I think i am funny</h4></li>
 </ul>
 <br>
 <h2 align="center">My Statistics:</h2>
