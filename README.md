@@ -15,7 +15,7 @@
 <li><h4>🔥 Passionate about: AI 🤖, Full-stack Web Development</h4></li>
 <li><h4>🌱 Learning:  AI/ML, Cloud-computing ☁️, Cyber security</h4></li>
 <li><h4>🔬 Interested in: AI tools , Machine Learning </h4></li>
-<li><h4>💬 Ask me about Reactjs , nodejs , Figma</h4></li>
+<li><h4>💬 Ask me about Reactjs , nodejs , SQL</h4></li>
 <li><h4>📫 How to reach me tech.kavinduwijesekara@gmail.com</h4></li>
 <li><h4>⚡ Fun fact I think i am funny</h4></li>
 </ul>
