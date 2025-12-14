@@ -16,19 +16,19 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 ## 👨‍💻 About Me
 
-- <h3>🌍 Location: Sri Lanka</h3>
+- 🌍 Location: Sri Lanka
 
-- <h3>🔥 Passionate about: AI 🤖 & Full-Stack Development</h3>
+- 🔥 Passionate about: AI 🤖 & Full-Stack Development
  
-- <h3>🌱 Currently Learning: AI/ML, Cloud Computing ☁️, Cyber Security</h3>
+- 🌱 Currently Learning: AI/ML, Cloud Computing ☁️, Cyber Security
  
-- <h3>🔬 Interested in: AI Tools, Machine Learning, Automation</h3>
+- 🔬 Interested in: AI Tools, Machine Learning, Automation
  
-- <h3>💬 Ask me about: React, Node.js, SQL</h3>
+- 💬 Ask me about: React, Node.js, SQL
  
-- <h3>📫 Email: `tech.kavinduwijesekara@gmail.com`</h3>
+- 📫 Email: `tech.kavinduwijesekara@gmail.com`
  
-- <h3>⚡ Fun fact: I think I’m funny 😄</h3>
+- ⚡ Fun fact: I think I’m funny 😄
 
 ---
 
