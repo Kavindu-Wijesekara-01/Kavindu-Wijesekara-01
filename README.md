@@ -20,23 +20,23 @@
 <li><h4>⚡ Fun fact I think i am funny</h4></li>
 </ul>
 <br>
-<h2 align="center">🌟 My Statistics</h2>
+<h2 align="center">📊 My Statistics</h2>
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="60%" align="center">
+<td width="100%" align="center">
+  
 
- 
+![](https://nirzak-streak-stats.vercel.app/?user=Kavindu-Wijesekara-01&theme=dark&hide_border=false)<br/> <br/> 
+![](https://github-readme-stats.vercel.app/api?username=Kavindu-Wijesekara-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kavindu-Wijesekara-01&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindu-Wijesekara-01&theme=dark&hide_border=false" /> 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </td>
 </tr
 <tr>       
-<td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kavindu-Wijesekara-01&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-</td>
 </tr>
 </table>
 </br>
@@ -82,6 +82,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
 </div>
+
 <br /> <br />
 <div align="center">
   <a href="https://www.linkedin.com/in/kavindu-wijesekara-93a8a6385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
