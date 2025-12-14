@@ -4,10 +4,10 @@
 Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Kavindu Wijesekara
 </h1>
 
-<h3 align="center">🚀 A Passionate IT Student from Sri Lanka 🇱🇰</h3>
+<h2 align="center">🚀 A Passionate IT Student from Sri Lanka</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=07F76E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast;AI+%26+ML+Explorer;Tech+Innovation+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=07F76E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast;AI+%26+ML+Explorer;Tech+Innovation+Lover" />
 </p>
 
 ---
@@ -16,13 +16,19 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 ## 👨‍💻 About Me
 
-- 🌍 **Location:** Sri Lanka 🇱🇰  
-- 🔥 **Passionate about:** AI 🤖 & Full-Stack Development  
-- 🌱 **Currently Learning:** AI/ML, Cloud Computing ☁️, Cyber Security  
-- 🔬 **Interested in:** AI Tools, Machine Learning, Automation  
-- 💬 **Ask me about:** React, Node.js, SQL  
-- 📫 **Email:** `tech.kavinduwijesekara@gmail.com`  
-- ⚡ **Fun fact:** I think I’m funny 😄  
+- <h3>🌍 Location: Sri Lanka</h3>
+
+- <h3>🔥 Passionate about: AI 🤖 & Full-Stack Development</h3>
+ 
+- <h3>🌱 Currently Learning: AI/ML, Cloud Computing ☁️, Cyber Security</h3>
+ 
+- <h3>🔬 Interested in: AI Tools, Machine Learning, Automation</h3>
+ 
+- <h3>💬 Ask me about: React, Node.js, SQL</h3>
+ 
+- <h3>📫 Email: `tech.kavinduwijesekara@gmail.com`</h3>
+ 
+- <h3>⚡ Fun fact: I think I’m funny 😄</h3>
 
 ---
 
