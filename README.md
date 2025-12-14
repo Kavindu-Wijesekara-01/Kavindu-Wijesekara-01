@@ -4,7 +4,7 @@
 Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Kavindu Wijesekara
 </h1>
 
-<h2 align="center">🚀 A Passionate IT Student from Sri Lanka</h2>
+<h3 align="center">🚀 A Passionate IT Student from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=07F76E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast;AI+%26+ML+Explorer;Tech+Innovation+Lover" />
