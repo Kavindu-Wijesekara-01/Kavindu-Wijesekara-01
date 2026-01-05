@@ -32,12 +32,7 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 ---
 
- 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kavindu-Wijesekara-01&label=Profile%20Views&color=07F76E&style=flat" />
-</p>
 
----
 
 
 ## 🔥 GitHub Statistics
