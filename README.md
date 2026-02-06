@@ -13,7 +13,7 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 ---
 
 
-<img align="right" alt="coding" width="290" src="hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387 (1)"/>
+<img align="right" alt="coding" width="330" src="hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387 (1).png"/>
 
 ## 👨‍💻 About Me
 
