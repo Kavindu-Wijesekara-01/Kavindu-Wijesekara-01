@@ -45,6 +45,11 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 </p>
 
 ---
+![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/radical/2-productive-time.svg)
+
+![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/radical/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/radical/1-repos-per-language.svg)
 
 ## 🚀 Languages & Tools
 
