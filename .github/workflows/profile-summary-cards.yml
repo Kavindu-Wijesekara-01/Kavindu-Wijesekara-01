@@ -1,0 +1,24 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # දවසට එක පාරක් update වෙනවා
+    - cron: "0 0 * * *"
+  workflow_dispatch: # කැමති වෙලාවක button එක ඔබලා run කරන්න පුළුවන්
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # මෙතනින් කැමති theme එකක් තෝරන්න පුළුවන් (radical, solarized_dark, etc.)
+          THEME: radical
