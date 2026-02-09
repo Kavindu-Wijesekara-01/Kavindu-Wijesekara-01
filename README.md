@@ -40,18 +40,14 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Kavindu-Wijesekara-01&theme=dark" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavindu-Wijesekara-01&show_icons=true&theme=dark" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu-Wijesekara-01&layout=compact&theme=dark&langs_count=8" />
 </p>
 
 ---
 <div align="center">
 
-![](profile-summary-card-output/radical/0-profile-details.svg)
-
-![](profile-summary-card-output/radical/2-productive-time.svg)
-
-![](profile-summary-card-output/radical/1-repos-per-language.svg)
+[![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
