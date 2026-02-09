@@ -66,14 +66,14 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 ####  AI & Machine Learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height="50" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&theme=dark" />
+    <img height="50" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&theme=dark&perline=7" />
   </a>
 </p>
 
 ####  Tools, DevOps & Platforms
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height="50" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark" />
+    <img height="50" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark&perline=7" />
   </a>
 </p>
 
