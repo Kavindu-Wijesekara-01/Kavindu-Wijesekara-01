@@ -49,22 +49,22 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 ## 🛠️ Technologies & Tools
 
-### 👨‍💻 Programming Languages
+####  Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,c,cpp&theme=dark" />
 </p>
 
-### 🌐 Web & Application Development
+####  Web & Application Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,sass&theme=dark" />
 </p>
 
-### 🤖 AI & Machine Learning
+####  AI & Machine Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,miniconda&theme=dark" />
 </p>
 
-### ☁️ Tools, DevOps & Platforms
+####  Tools, DevOps & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark" />
 </p>
