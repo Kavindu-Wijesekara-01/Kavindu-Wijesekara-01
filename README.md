@@ -51,22 +51,30 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 ####  Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,c,cpp&theme=dark" />
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,c,cpp&theme=dark&perline=7" />
+  </a>
+</p></br>
 
 ####  Web & Application Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,sass&theme=dark" />
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,sass&theme=dark&perline=7" />
+  </a>
+</p></br>
 
 ####  AI & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,miniconda&theme=dark" />
-</p>
+  <a href="https://skillicons.dev">
+    <img height="50" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&theme=dark" />
+  </a>
+</p></br>
 
 ####  Tools, DevOps & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img height="50" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark" />
+  </a>
 </p>
 
 ---
