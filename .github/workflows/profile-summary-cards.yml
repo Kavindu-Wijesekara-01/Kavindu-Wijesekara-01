@@ -21,4 +21,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           # මෙතනින් කැමති theme එකක් තෝරන්න පුළුවන් (radical, solarized_dark, etc.)
-          THEME: radical
+          THEME: github_dark
