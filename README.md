@@ -38,12 +38,8 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 ## 🔥 GitHub Statistics
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kavindu-Wijesekara-01&theme=dark" /><br/><br/>
-</p>
-
----
 <div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Kavindu-Wijesekara-01&theme=dark" /><br/><br/>
 
 [![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -51,26 +47,26 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 </div>
 
-## 🚀 Languages & Tools
+## 🛠️ Technologies & Tools
 
-### 💻 Programming
+### 👨‍💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,c,cpp&theme=dark" />
 </p>
 
-### 🌐 Frontend & Backend
+### 🌐 Web & Application Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,sass&theme=dark" />
 </p>
 
-### ☁️ Cloud & DevOps
+### 🤖 AI & Machine Learning
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,miniconda&theme=dark" />
 </p>
 
-### 🛠 Tools & Databases
+### ☁️ Tools, DevOps & Platforms
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,flutter" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark" />
 </p>
 
 ---
