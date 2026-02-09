@@ -49,31 +49,17 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 ## 🛠️ Technologies & Tools
 
-####  Programming Languages
+#### 💻 Languages, Frameworks & AI
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,c,cpp&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,c,cpp,react,nextjs,nodejs,express,flask,django,tailwind,sass,pytorch,tensorflow,opencv,anaconda&theme=dark&perline=10" />
   </a>
 </p>
 
-####  Web & Application Development
+#### ⚙️ Databases, Cloud & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,sass&theme=dark&perline=7" />
-  </a>
-</p>
-
-####  AI & Machine Learning
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img height="50" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&theme=dark&perline=7" />
-  </a>
-</p>
-
-####  Tools, DevOps & Platforms
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img height="50" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,git,github,docker,linux,vscode,postman,vercel,aws&theme=dark&perline=10" />
   </a>
 </p>
 
