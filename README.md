@@ -41,7 +41,7 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=github_dark" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu-Wijesekara-01&repo=YOUR_REPO_NAME&theme=github_dark" alt="Pinned Repo Card" />
+
 
 [![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
