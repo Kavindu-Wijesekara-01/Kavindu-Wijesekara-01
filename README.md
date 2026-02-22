@@ -13,7 +13,7 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 ---
 
 <div align="center">
-  <img src="hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387 (1).png" align="right" width="330" alt="Kavindu Wijesekara" />
+  <img src="unnamed-modified.png" align="right" width="280" alt="Kavindu Wijesekara" />
 </div>
 
 ## 👨‍💻 About Me
