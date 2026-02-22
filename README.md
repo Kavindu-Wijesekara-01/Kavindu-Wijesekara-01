@@ -11,12 +11,12 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 </p>
 
 ---
+## 👨‍💻 About Me
+
 
 <div align="center">
-  <img src="unnamed-modified.png" align="right" width="280" alt="Kavindu Wijesekara" />
+  <img src="unnamed-modified.png" align="right" width="250" alt="Kavindu Wijesekara" />
 </div>
-
-## 👨‍💻 About Me
 
 I am Kavindu Wijesekara, an Information Systems undergraduate pursuing a BSc (Hons) at the Sabaragamuwa University of Sri Lanka. With a deep-rooted passion for the intersection of Artificial Intelligence and Software Engineering, I am focused on building scalable and intelligent digital solutions.
 
