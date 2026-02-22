@@ -7,7 +7,10 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 <h3 align="center">🚀 A Passionate IT Student from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=07F76E&center=true&vCenter=true&width=700&lines=Microservices+Developer;SaaS+App+Developer;MLOps+Innovator;Tech+Lover" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=07F76E&center=true&vCenter=true&width=1000&lines=Microservices+Developer;SaaS+App+Developer;MLOps+Innovator;Tech+Lover" 
+    style="width: 90%; max-width: 700px; height: auto;" 
+  />
 </p>
 
 ---
