@@ -7,29 +7,22 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 <h3 align="center">🚀 A Passionate IT Student from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=07F76E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast;AI+%26+ML+Explorer;Tech+Innovation+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=07F76E&center=true&vCenter=true&width=700&lines=Microservices+Developer;SaaS+App+Developer;MLOps+Innovator;Tech+Lover" />
 </p>
 
 ---
 
-
-<img align="right" alt="coding" width="330" src="hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387 (1).png"/>
+<div align="center">
+  <img src="hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387 (1).png" align="right" width="330" alt="Kavindu Wijesekara" />
+</div>
 
 ## 👨‍💻 About Me
 
-- 🌍 Location: Sri Lanka
+I am Kavindu Wijesekara, an Information Systems undergraduate pursuing a BSc (Hons) at the Sabaragamuwa University of Sri Lanka. With a deep-rooted passion for the intersection of Artificial Intelligence and Software Engineering, I am focused on building scalable and intelligent digital solutions.
 
-- 🔥 Passionate about: AI 🤖 & Full-Stack Development
- 
-- 🌱 Currently Learning: AI/ML, Cloud Computing ☁️, Cyber Security
- 
-- 🔬 Interested in: AI Tools, Machine Learning, Automation
- 
-- 💬 Ask me about: React, Node.js, SQL
- 
-- 📫 Email: `tech.kavinduwijesekara@gmail.com`
- 
-- ⚡ Fun fact: I think I’m funny 😄
+Currently, I am actively involved in developing SaaS applications and architecting systems using Microservices. To bridge the gap between development and production-grade AI, I am also specializing in MLOps, ensuring that machine learning models are efficiently deployed and managed. My ultimate career objective is to evolve as a specialist in the AI-driven technology landscape, leveraging automation and advanced data processing to solve complex real-world challenges.
+
+<br clear="right"/>
 
 ---
 
@@ -40,8 +33,8 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=github_dark" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=github_dark&hide_border=false&border=30363d" width="48.5%" alt="GitHub Streak" />
+  
 
 
 [![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
