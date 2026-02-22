@@ -6,14 +6,10 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 <h3 align="center">🚀 A Passionate IT Student from Sri Lanka</h3>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=07F76E&center=true&vCenter=true&width=1000&lines=Microservices+Developer;SaaS+App+Developer;MLOps+Innovator;Tech+Lover" 
-    style="width: 90%; max-width: 700px; height: auto;" 
-  />
-</p>
-
----
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0FF76B&center=true&width=550&lines=Microservices+Developer;SaaS+App+Developer;MLOps+Innovator;Tech+Lover" alt="Typing SVG" /></a>
+</div>
+  
 ## 👨‍💻 About Me
 
 <div align="center">
@@ -25,18 +21,18 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
   />
 </div>
 
-<p align="justify">
+####
 I am Kavindu Wijesekara, an Information Systems undergraduate pursuing a BSc (Hons) at the Sabaragamuwa University of Sri Lanka. With a deep-rooted passion for the intersection of Artificial Intelligence and Software Engineering, I am focused on building scalable and intelligent digital solutions.
-
+####
 Currently, I am actively involved in developing SaaS applications and architecting systems using Microservices. To bridge the gap between development and production-grade AI, I am also specializing in MLOps, ensuring that machine learning models are efficiently deployed and managed. My ultimate career objective is to evolve as a specialist in the AI-driven technology landscape, leveraging automation and advanced data processing to solve complex real-world challenges.
-</p>
+
 
 ---
 
 
 
 
-## 🔥 GitHub Statistics
+## 🔥 My Statistics
 
 <div align="center">
 
