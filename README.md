@@ -13,16 +13,20 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 ---
 ## 👨‍💻 About Me
 
-
 <div align="center">
-  <img src="unnamed-modified.png" align="right" width="290" alt="Kavindu Wijesekara" />
-</div><br/>
+  <img 
+    src="unnamed-modified.png" 
+    width="290" 
+    alt="Kavindu Wijesekara" 
+    style="display:block; margin: 0 auto 30px auto; border-radius: 50%;" 
+  />
+</div>
 
+<p align="justify">
 I am Kavindu Wijesekara, an Information Systems undergraduate pursuing a BSc (Hons) at the Sabaragamuwa University of Sri Lanka. With a deep-rooted passion for the intersection of Artificial Intelligence and Software Engineering, I am focused on building scalable and intelligent digital solutions.
 
 Currently, I am actively involved in developing SaaS applications and architecting systems using Microservices. To bridge the gap between development and production-grade AI, I am also specializing in MLOps, ensuring that machine learning models are efficiently deployed and managed. My ultimate career objective is to evolve as a specialist in the AI-driven technology landscape, leveraging automation and advanced data processing to solve complex real-world challenges.
-
-<br clear="right"/>
+</p>
 
 ---
 
