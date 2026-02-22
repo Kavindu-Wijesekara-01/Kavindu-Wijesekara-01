@@ -7,7 +7,7 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 <h3 align="center">🚀 A Passionate IT Student from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=07F76E&center=true&vCenter=true&width=700&lines=Microservices+Developer;SaaS+App+Developer;MLOps+Innovator;Tech+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=07F76E&center=true&vCenter=true&width=700&lines=Microservices+Developer;SaaS+App+Developer;MLOps+Innovator;Tech+Lover" />
 </p>
 
 ---
@@ -15,7 +15,7 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 
 <div align="center">
-  <img src="unnamed-modified.png" align="right" width="250" alt="Kavindu Wijesekara" />
+  <img src="unnamed-modified.png" align="right" width="300" alt="Kavindu Wijesekara" />
 </div>
 
 I am Kavindu Wijesekara, an Information Systems undergraduate pursuing a BSc (Hons) at the Sabaragamuwa University of Sri Lanka. With a deep-rooted passion for the intersection of Artificial Intelligence and Software Engineering, I am focused on building scalable and intelligent digital solutions.
@@ -33,7 +33,7 @@ Currently, I am actively involved in developing SaaS applications and architecti
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=github_dark&hide_border=false&border=30363d" width="48.5%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=github_dark&hide_border=false&border=30363d" alt="GitHub Streak" />
   
 
 
