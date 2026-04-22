@@ -10,7 +10,7 @@ Hi <img width="45" src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0FF76B&center=true&width=550&lines=Microservices+Developer;SaaS+App+Developer;MLOps+Innovator;Tech+Lover" alt="Typing SVG" /></a>
 </div>
   
-## 👨‍💻 About Me
+## <img src="dev_boy.gif" width="40" height="40"> About Me
 
 <div align="center">
   <img 
@@ -52,7 +52,7 @@ Currently, I am actively involved in developing SaaS applications and architecti
 <br/><br/>
 </div>
 
-## 🛠️ Technologies & Tools
+## <img src="68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d673.gif" width="30" height="30">  Technologies & Tools  <img src="68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d673.gif" width="30" height="30">
 
 #### 💻 Languages, Frameworks & AI
 <p align="center">
