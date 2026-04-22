@@ -36,14 +36,17 @@ Currently, I am actively involved in developing SaaS applications and architecti
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=github_dark&hide_border=false&border=30363d" alt="GitHub Streak" />
-  
+  <img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=github_dark&hide_border=false&border=30363d" width="49.5%" />
+  <img src="https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49.5%" />
 
+  <br />
 
-[![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  <img src="https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49.5%" />
+  <img src="https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49.5%" />
 
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavindu-Wijesekara-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
 
 </div>
 
