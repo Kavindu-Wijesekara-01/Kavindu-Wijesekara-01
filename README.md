@@ -36,8 +36,7 @@ Currently, I am actively involved in developing SaaS applications and architecti
 
 <div align="center">
 
-
-  <img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=github_dark&hide_border=false&border=30363d" width="700" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavindu-Wijesekara-01&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0D1117" width="700"/>
 
   <br/>
 
@@ -45,9 +44,7 @@ Currently, I am actively involved in developing SaaS applications and architecti
   <img src="https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="350" />
 
   <br/>
-
-  <img src="https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="320" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavindu-Wijesekara-01&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0D1117" width="440"/>
+  <img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=github_dark&hide_border=false&border=30363d" width="700" />
 
 <br/><br/>
 </div>
