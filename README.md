@@ -36,15 +36,18 @@ Currently, I am actively involved in developing SaaS applications and architecti
 
 <div align="center">
 
-  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="700" alt="Productive Time">
+<img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=github_dark&hide_border=false&border=30363d" width="700" />
+
+<br/>
+
+ <img src="profile-summary-card-output/github_dark/3-stats.svg" width="350" alt="GitHub Stats">
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="350" alt="Productive Time">
 
   <br/>
 
   <img src="https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="350" />
   <img src="https://raw.githubusercontent.com/Kavindu-Wijesekara-01/Kavindu-Wijesekara-01/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="350" />
 
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=github_dark&hide_border=false&border=30363d" width="700" />
 
 <br/><br/>
 </div>
@@ -109,7 +112,7 @@ Currently, I am actively involved in developing SaaS applications and architecti
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindu-Wijesekara-01&theme=github-dark" />
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="840" alt="Contribution Graph">
 </p>
 
 ---
