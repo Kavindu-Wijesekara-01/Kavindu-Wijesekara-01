@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # දවසට එක පාරක් update වෙනවා
+  schedule: # Dawasata eka paarak update wenawa
     - cron: "0 0 * * *"
-  workflow_dispatch: # කැමති වෙලාවක button එක ඔබලා run කරන්න පුළුවන්
+  workflow_dispatch: # Kamathi welawaka button eka obala run karanna puluwan
 
 jobs:
   build:
@@ -17,8 +17,9 @@ jobs:
       
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
+          # Podi mathak kirimak: Oyage repo settings wala thiyena secret eke nama 'GH_TOKEN' kiyala waga thahawuru karaganna.
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # මෙතනින් කැමති theme එකක් තෝරන්න පුළුවන් (radical, solarized_dark, etc.)
+          # Oya select karapu 'dark' theme eka methana thiyenawa
           THEME: dark
