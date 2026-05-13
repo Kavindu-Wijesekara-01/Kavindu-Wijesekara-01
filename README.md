@@ -83,12 +83,12 @@ Currently, I am actively involved in developing SaaS applications and architecti
       <img src="https://img.shields.io/badge/Next.js-%231A1A1A.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" height="35" />
       <img src="https://img.shields.io/badge/TailwindCSS-%231A1A1A.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC" alt="TailwindCSS" height="35" />
       <img src="https://img.shields.io/badge/SASS-%231A1A1A.svg?style=for-the-badge&logo=SASS&logoColor=hotpink" alt="SASS" height="35" />
-      <br><br>
+      <br>
       <img src="https://img.shields.io/badge/Node.js-%231A1A1A.svg?style=for-the-badge&logo=node.js&logoColor=%236DA55F" alt="NodeJS" height="35" />
       <img src="https://img.shields.io/badge/Express.js-%231A1A1A.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="35" />
       <img src="https://img.shields.io/badge/Django-%231A1A1A.svg?style=for-the-badge&logo=django&logoColor=%23092E20" alt="Django" height="35" />
       <img src="https://img.shields.io/badge/Flask-%231A1A1A.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="35" />
-      <br><br>
+      <br>
       <img src="https://img.shields.io/badge/MongoDB-%231A1A1A.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b" alt="MongoDB" height="35" />
       <img src="https://img.shields.io/badge/PostgreSQL-%231A1A1A.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192" alt="Postgres" height="35" />
       <img src="https://img.shields.io/badge/Python-%231A1A1A.svg?style=for-the-badge&logo=python&logoColor=%23ffdd54" alt="Python" height="35" />
@@ -105,7 +105,7 @@ Currently, I am actively involved in developing SaaS applications and architecti
       <img src="https://img.shields.io/badge/NumPy-%231A1A1A.svg?style=for-the-badge&logo=numpy&logoColor=%23777BB4" alt="NumPy" height="35" />
       <img src="https://img.shields.io/badge/PyTorch-%231A1A1A.svg?style=for-the-badge&logo=PyTorch&logoColor=%23EE4C2C" alt="PyTorch" height="35" />
       <img src="https://img.shields.io/badge/TensorFlow-%231A1A1A.svg?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00" alt="TensorFlow" height="35" />
-      <br><br>
+      <br>
       <img src="https://img.shields.io/badge/OpenCV-%231A1A1A.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="35" />
       <img src="https://img.shields.io/badge/Anaconda-%231A1A1A.svg?style=for-the-badge&logo=anaconda&logoColor=%2344A833" alt="Anaconda" height="35" />
     </td>
@@ -119,10 +119,10 @@ Currently, I am actively involved in developing SaaS applications and architecti
       <img src="https://img.shields.io/badge/Linux-%231A1A1A.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" height="35" />
       <img src="https://img.shields.io/badge/Docker-%231A1A1A.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed" alt="Docker" height="35" />
       <img src="https://img.shields.io/badge/Kubernetes-%231A1A1A.svg?style=for-the-badge&logo=kubernetes&logoColor=%23326ce5" alt="Kubernetes" height="35" />
-      <br><br>
+      <br>
       <img src="https://img.shields.io/badge/AWS-%231A1A1A.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900" alt="AWS" height="35" />
       <img src="https://img.shields.io/badge/Terraform-%231A1A1A.svg?style=for-the-badge&logo=terraform&logoColor=%235835CC" alt="Terraform" height="35" />
-      <br><br>
+      <br>
       <img src="https://img.shields.io/badge/Prometheus-%231A1A1A.svg?style=for-the-badge&logo=Prometheus&logoColor=%23E6522C" alt="Prometheus" height="35" />
       <img src="https://img.shields.io/badge/Grafana-%231A1A1A.svg?style=for-the-badge&logo=grafana&logoColor=%23F46800" alt="Grafana" height="35" />
       <img src="https://img.shields.io/badge/GitHub_Actions-%231A1A1A.svg?style=for-the-badge&logo=githubactions&logoColor=%232671E5" alt="GitHub Actions" height="35" />
@@ -141,7 +141,7 @@ Currently, I am actively involved in developing SaaS applications and architecti
       <img src="https://img.shields.io/badge/Rust-%231A1A1A.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="35" />
       <img src="https://img.shields.io/badge/C-%231A1A1A.svg?style=for-the-badge&logo=c&logoColor=%2300599C" alt="C" height="35" />
       <img src="https://img.shields.io/badge/C%2B%2B-%231A1A1A.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C" alt="C++" height="35" />
-      <br><br>
+      <br>
       <img src="https://img.shields.io/badge/Git-%231A1A1A.svg?style=for-the-badge&logo=git&logoColor=%23F05033" alt="Git" height="35" />
       <img src="https://img.shields.io/badge/GitHub-%231A1A1A.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35" />
       <img src="https://img.shields.io/badge/Vercel-%231A1A1A.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="35" />
