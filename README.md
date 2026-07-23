@@ -36,7 +36,7 @@ Currently, I am actively involved in developing SaaS applications and architecti
 
 <div align="center">
 <kbd>
-<img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=chartreuse_dark&hide_border=false&border=30363d" width="700" />
+<img src="https://streak-stats.demolab.com/?user=Kavindu-Wijesekara-01&theme=dark&hide_border=false&border=30363d" width="700" />
 </kbd>
 
 <br/>
